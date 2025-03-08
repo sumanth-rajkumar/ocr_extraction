@@ -1,0 +1,51 @@
+{
+    "deed_of_settlement": {
+        "date": "19th day of October 2023",
+        "settlor": {
+            "name": "Mr. CHANDRU SEKARAN",
+            "aadhaar_no": "54690335 5790",
+            "age": "about 43 years",
+            "address": "No.60, Bazaar Road, Saidapet, Chennai 600015"
+        },
+        "settlee": {
+            "name": "Mrs. MALAR KODI. P",
+            "aadhaar_no": "65036992 8781",
+            "age": "about 44 years",
+            "address": "House No.40, Nehru Street, Nethaji Nagar Extn., Coimbatore South, Coimbatore - 641045"
+        },
+        "property": {
+            "description": "259 Sq.ft., of undivided share and interest in 19.6842 Acres (excluding the lands gifted for Open Space Reservation and for Road Purpose) out of the total land of an extent of 25 Acres, together with a 2 BHK Apartment bearing No. 5905 on the 9th Floor in the 5th Wing of \"Orchid\" Block of the Development known as \"Embassy Residency\", having a super built-up area of 1107 Sq.ft., and proportionate share in all common areas together without exclusive right to use Terrace and garden Area with Stilt Car Parking Space, situated in Plot No.439, Cheran Nagar, Perumbakkam, Chennai - 600 100",
+            "survey_nos": "276 part, 277, 280/2A to 2G, 465 part, 466/2 part, 467, 468 part and 469 of PERUMBAKKAM VILLAGE, Tambaram Taluk, Chengalpattu District",
+            "value": "Rs.31,47,500/-"
+        },
+        "settlement_details": {
+            "reason": "natural love and affection towards the SETTLEE",
+            "encumbrances": "free from all encumbrances",
+            "taxes_paid": "all property tax and other taxes, levies and charges paid",
+            "transfer_authorization": "authorise the SETTLEE to effect the transfer of ownership in her favour"
+        },
+        "witnesses": [
+            {
+                "name": "(N. ANBAZHAGAN)",
+                "address": "No.64, Mariyamman Koil Street, Marakkanam, Villupuram - 604303",
+                "aadhaar_no": "76012723 0716"
+            },
+            {
+                "name": "V. ARUNBABU",
+                "address": "No.209, R - Block, 17th Link Street, V.O.C. Nagar, Tondiarpet, Chennai - 600081",
+                "aadhaar_no": "26610026 9308"
+            }
+        ]
+    },
+    "non_traceable_certificate": {
+        "date": "27.06.2022",
+        "issued_by": "Inspector of Police, E1 Singanallur Police Station Investigation Wing, Coimbatore City",
+        "description": "Original title documents of the schedule property has been lost and non traceable"
+    },
+    "stamp_duty": {
+        "amount": "\u20b9 39,500/-",
+        "levied_under": "section 41 of the Stamp Act",
+        "date": "19/10/2023",
+        "sub_registrar": "Selaiyur"
+    }
+}
